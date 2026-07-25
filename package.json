@@ -68,5 +68,10 @@
     "typescript": "^5.3.3",
     "vaul": "^0.9.9",
     "zod": "^3.23.8"
+  },
+  "overrides": {
+    "@radix-ui/react-use-layout-effect": {
+      "react": "^19.0.0"
+    }
   }
 }
